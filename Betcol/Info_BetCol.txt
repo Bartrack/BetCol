@@ -1,0 +1,15 @@
+BetCol es un proyecto para la creacion de un aplicativo el cual muestra un listado de equipos de futbol o partidos que hay disponibles de la liga colombiana, creado por Fabian Davila y Oscar Perez
+
+Requerimientos para Betcol 
+
+1) El programa debera mostrar el listado de los equipos o partidos que hay disponibles
+2) El programa debera mostrar la Fecha y la hora en la que se juegan los partidos
+3) Se necesita un buscador para que el usuario encuentre mas rapido el partido o equipo que quiera apostar
+4) Se necesita una opcion o boton que permita borra un partido que el cliente ya no quiera apostar junto con la opcion para que permita borra toda la apuesta
+5) Se necesia una opcion o boton que permita al cliente confirmar su apuesta
+6) Se debera visualizar en una parte de la ventana las ganancias de los partido seleccionados hasta el momento
+7) Un espacio en el cual el cliente ingrese el monto que desea apsotar
+8) El programa debera mostrar tres (3) opciones de apuesta que el cliente debera elegir las cuales son las siguiente: Gana Local, Gana Visitante y Empatan
+8.1) Tambien se requiere que cada una de las opciones de apuesta (Véase Req.8) muestre el monto o cuota que pagara por jugarle a esa opcion 
+
+//Los requerimientos pueden cambiar segun sean necesarios o solicitados
